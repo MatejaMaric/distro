@@ -3,6 +3,10 @@
 - musl
 - kernel-headers-musl
 - grub
-- libisoburn(xorriso)
+- libisoburn (xorriso)
 - cpio
 - wget
+
+Build time is around 7 minutes on 4th gen Intel i5 CPU.
+
+You can download the iso on <https://git.matejamaric.com/files/ml.iso>
