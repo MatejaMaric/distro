@@ -15,7 +15,6 @@ BUSYBOX_URL=https://busybox.net/downloads/$BUSYBOX_ARCHIVE
 cd ml-src
 
 #DOWNLOAD SOURCE
-#works bad man
 [[ ! -f $KERNEL_ARCHIVE ]] && wget $KERNEL_URL
 [[ ! -f $BUSYBOX_ARCHIVE ]] && wget $BUSYBOX_URL
 
