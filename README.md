@@ -1,4 +1,5 @@
-#Required packages
+# Required packages
+
 - build-essentials
 - musl
 - kernel-headers-musl
@@ -9,4 +10,4 @@
 
 Build time is around 7 minutes on 4th gen Intel i5 CPU.
 
-You can download the iso on <https://git.matejamaric.com/files/ml.iso>
+You can download the ISO file on <https://git.matejamaric.com/files/ml.iso>.
